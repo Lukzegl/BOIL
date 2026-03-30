@@ -1,1 +1,3 @@
 Ogarniamy projekty z BOIL-a
+BOIL_backlog:
+https://docs.google.com/document/d/1GX_MYEiumBxuzUAe19scJh7VwDy_4CKUcrYFJ6vVPg0/edit?fbclid=IwY2xjawQ2xplleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeQFGAg1N79nJm7n7LqfWg98L9ge23x4K7n86TAgHXNBCcIvXffP8VKfJ6JdI_aem_-5sQCg_3m0r088rT75lyCA&tab=t.0
