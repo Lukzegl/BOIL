@@ -1,0 +1,12 @@
+digraph {
+	A [label="A
+T=4
+ES=0, EF=4
+LS=2, LF=6
+R=2" fillcolor=white shape=circle style=filled]
+	B [label="B
+T=6
+ES=0, EF=6
+LS=0, LF=6
+R=0" fillcolor=red shape=circle style=filled]
+}
